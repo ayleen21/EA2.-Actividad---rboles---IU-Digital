@@ -1,4 +1,4 @@
-# Proyecto: Árbol Binario en Java - IU Diial
+# Proyecto: Árbol Binario en Java - IU Digital
 
 ## ¿Qué es un Árbol Binario?
 
@@ -29,6 +29,9 @@ Clase Main con menú
 Para que el usuario pueda interactuar, se creó un menú en consola con opciones para insertar varios números seguidos, mostrar el recorrido inorden y buscar un número. 
 
 ## Ejemplo de ejecución en consola
+
+
+<img width="661" height="785" alt="ARBOLES" src="https://github.com/user-attachments/assets/26d7bcd2-1d3c-482c-838a-e768a4d5968f" />
 
 
 
